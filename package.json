@@ -1,0 +1,11 @@
+{
+    "name": "nativescript-securedtls",
+    "version": "0.0.1",
+    "main": "index.js",
+    "nativescript": {
+      "platforms": {
+        "android": "4.1.3"
+      }
+    }
+  }
+  
